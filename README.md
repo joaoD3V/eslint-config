@@ -18,7 +18,7 @@ npm i -D eslint @joaod3v/eslint-config
 ```
 {
   "extends": "@joaod3v/eslint-config/next"
-  // "extends": "@joaod3v/eslint-config/next"
+  // "extends": "@joaod3v/eslint-config/node"
 }
 ```
 
